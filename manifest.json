@@ -1,7 +1,6 @@
 ---
-layout: none
+layout: null
 ---
-
 {
     "name": "{{ site.title }}",
     "short_name": "{{ site.title }}",
@@ -21,6 +20,6 @@ layout: none
     ],
     "theme_color": "{{ site.color }}",
     "background_color": "{{ site.color }}",
-    "start_url": "https://chowdown.io",
+    "start_url": "https://thomasswilliams.github.io/recipes",
     "display": "standalone"
 }
